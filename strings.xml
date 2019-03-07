@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SqliteApp_badr</string>
+
+    <string name="name">name</string>
+
+    <string name="button">Button</string>
+    <string name="add">add</string>
+    <string name="show">show</string>
+    <string name="apdate">update</string>
+    <string name="ID">ID</string>
+    <string name="delete">delete</string>
+    <string name="search">search</string>
+
+
+    <string name="Det">Det</string>
+    <string name="Mob">Mob</string>
+    <string name="search_mob">search_mob</string>
+    <string name="search_name">search_name</string>
+
+</resources>
